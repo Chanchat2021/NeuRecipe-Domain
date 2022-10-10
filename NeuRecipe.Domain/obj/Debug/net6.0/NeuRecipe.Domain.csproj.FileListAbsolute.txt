@@ -1,0 +1,12 @@
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\bin\Debug\net6.0\NeuRecipe.Domain.deps.json
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\bin\Debug\net6.0\NeuRecipe.Domain.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\bin\Debug\net6.0\NeuRecipe.Domain.pdb
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.csproj.AssemblyReference.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.AssemblyInfoInputs.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.AssemblyInfo.cs
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\refint\NeuRecipe.Domain.dll
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\NeuRecipe.Domain.pdb
+C:\Users\Chandan.Chatterjee\source\repos\NeuRecipe\NeuRecipe\src\NeuRecipe.Domain\obj\Debug\net6.0\ref\NeuRecipe.Domain.dll
